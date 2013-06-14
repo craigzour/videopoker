@@ -15,3 +15,11 @@
 *.exe
 *.out
 *.app
+
+*.win
+*.dev
+*.layout
+*.Manifest
+*.rc
+*.res
+VideoPokerGame_private.h
